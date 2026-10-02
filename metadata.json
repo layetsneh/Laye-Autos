@@ -1,0 +1,6 @@
+{
+  "name": "Laye Autos - Vehicle Sales, Repair & Maintenance",
+  "description": "Laye Autos offers premium vehicle sales, expert automotive repair, precision maintenance, online service booking, and certified inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
